@@ -1,0 +1,107 @@
+body {
+	background-repeat:no-repeat;
+	background-position:200 100;
+	background-color:black;
+	}
+	
+h1{color:blue;
+	left:600px;
+	position:relative;
+	}
+	
+h2{color:white;
+   left:600px;
+   position:relative;
+	}
+h4{color:white;
+	font-style:italic;
+	font-family:serif;
+	 line-height:1.5;
+	}
+	
+#logo{opacity:.9;
+}
+#twitter{height:2em;
+		width:2em;
+		position:absolute;
+		left:1060px;
+		top:88px;
+			}
+			
+#picture{	position:absolute;
+			left:500px;
+			height:20em;
+			width:20em;
+}
+
+
+
+	
+#info{position:absolute;
+	  left:1100px;
+	  top:25px;
+	  line-height:1.5;
+   	  }
+
+#about{
+	position:absolute;
+	left:250px;
+	top:50px;
+}
+
+#company{
+	position:absolute;
+	left:400px;
+	top:50px;
+}
+
+#blog{
+	position:absolute;
+	left:550px;
+	top:50px;
+}
+
+#contact{
+	position:absolute;
+	left:700px;
+	top:50px;
+}
+
+
+#photo {
+	left :500px;
+    position: relative;
+  width: 500px;
+  height: 300px;
+}
+
+#photo img {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	display: block;
+}
+
+#pic1{	
+	   -webkit-transform:rotate(90deg);
+	  
+		height:20em;
+		width:18em;
+}
+#pic2{	height:20em;
+		width:18em;
+}	
+#pic3{	height:20em;
+		width:18em;
+		}
+#pic4{	height:20em;
+		width:18em;
+				}
+				
+#test{	color:white;
+		font-style:italic;
+		font-family:serif;
+		line-height:0.5;
+		position:absolute;
+		left:400px;
+		}

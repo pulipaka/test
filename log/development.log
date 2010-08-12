@@ -820,3 +820,213 @@ Processing ProductsController#index (for 127.0.0.1 at 2010-08-08 22:09:14) [GET]
 Rendering template within layouts/products
 Rendering products/index
 Completed in 127ms (View: 121, DB: 1) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-11 14:19:25) [GET]
+  [4;36;1mProduct Load (1.1ms)[0m   [0;1mSELECT * FROM "products" [0m
+Rendering template within layouts/products
+Rendering products/index
+Completed in 292ms (View: 273, DB: 1) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-11 14:23:28) [GET]
+  [4;35;1mProduct Load (0.6ms)[0m   [0mSELECT * FROM "products" [0m
+Rendering template within layouts/products
+Rendering products/index
+Completed in 22ms (View: 18, DB: 1) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-11 14:23:30) [GET]
+  [4;36;1mProduct Load (0.6ms)[0m   [0;1mSELECT * FROM "products" [0m
+Rendering template within layouts/products
+Rendering products/index
+Completed in 78ms (View: 73, DB: 1) | 200 OK [http://localhost/products]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-11 14:24:26) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-11 14:24:26) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-11 14:24:26) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-11 14:24:26) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-11 14:24:26) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-11 14:24:26) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-11 14:24:26) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:12:19) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:12:19) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:12:19) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:12:19) [GET]
+
+ActionController::RoutingError (No route matches "/1.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:12:19) [GET]
+
+ActionController::RoutingError (No route matches "/2.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:12:19) [GET]
+
+ActionController::RoutingError (No route matches "/3.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:12:19) [GET]
+
+ActionController::RoutingError (No route matches "/4.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:13:03) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:13:03) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:13:03) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:13:37) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:13:37) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:14:42) [GET]
+
+ActionController::RoutingError (No route matches "/janova_logo_transparent.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-12 11:14:42) [GET]
+
+ActionController::RoutingError (No route matches "/twitter.gif" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-12 11:21:25) [GET]
+  [4;36;1mProduct Load (0.8ms)[0m   [0;1mSELECT * FROM "products" [0m
+Rendering template within layouts/products
+Rendering products/index
+Completed in 244ms (View: 218, DB: 1) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-12 11:25:42) [GET]
+  [4;35;1mProduct Load (0.6ms)[0m   [0mSELECT * FROM "products" [0m
+Rendering template within layouts/products
+Rendering products/index
+Completed in 18ms (View: 13, DB: 1) | 200 OK [http://localhost/products]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-12 11:31:37) [GET]
+  [4;36;1mProduct Load (0.6ms)[0m   [0;1mSELECT * FROM "products" [0m
+Rendering template within layouts/products
+Rendering products/index
+Completed in 18ms (View: 13, DB: 1) | 200 OK [http://localhost/products]
