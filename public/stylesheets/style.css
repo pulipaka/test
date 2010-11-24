@@ -148,8 +148,11 @@ h4{color:white;
 				   position:relative;
 					}
 					
-					h5{color:white;
-						position:absolute;
-					   left:900px;
-					   top:700px;
-						}
+		#jonny{opacity:0.9;
+			position:absolute;
+			top:50px;
+			left:350px;
+			height:40em;
+			width:35em;}
+						
+						
