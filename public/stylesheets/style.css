@@ -4,15 +4,7 @@ body {
 	background-color:black;
 	}
 	
-h1{color:blue;
-	left:600px;
-	position:relative;
-	}
-	
-h2{color:white;
-   left:600px;
-   position:relative;
-	}
+
 h4{color:white;
 	font-style:italic;
 	font-family:serif;
@@ -97,6 +89,8 @@ h4{color:white;
 #pic4{	height:20em;
 		width:18em;
 				}
+
+				
 				
 #test{	color:white;
 		font-style:italic;
@@ -105,3 +99,57 @@ h4{color:white;
 		position:absolute;
 		left:400px;
 		}
+		
+		p{position:relative;
+		 left:-280px;
+			padding: 25px 25px 25px 25px;
+			font-style:italic;
+			font-family:serif;
+			line-height:1.5;
+			color:white;}
+		
+		
+
+				#one{position:absolute;
+					left:20px;	
+					height:20em;
+				width:18em;
+				}
+				#two{
+					align:right; 
+					position:absolute;
+					left:1000px;
+					top:380px;	
+					height:20em;
+				width:18em;
+				}
+
+				#four{position:absolute;
+
+					left:1000px;	
+					height:20em;
+				width:18em;
+				}				
+				#three{position:absolute;
+					left:20px;
+					top:380px;
+					height:20em;
+				width:18em;
+				}
+				
+				h1{color:blue;
+					left:500px;
+					position:absolute;
+				    top:600px;
+					}
+
+				h2{color:red;
+				   left:600px;
+				   position:relative;
+					}
+					
+					h5{color:white;
+						position:absolute;
+					   left:900px;
+					   top:700px;
+						}
